@@ -42,13 +42,6 @@
   cursor: pointer;
 }
 
-/* MIDDLE PART(GOOGLE MAP) */
-iframe {
-  height: 405px;
-  width: 100%;
-  max-width: 400px;
-}
-
 /* RIGHT SIDE(CONTACT CARD) */
 .contact-2 {
   background-color: rgba(0, 0, 0, 0);
@@ -140,7 +133,7 @@ textarea:focus {
     grid-template-rows: 2fr;
     align-items: first baseline;
     justify-items: center;
-    height: 1400px;
+    height: 900px;
     margin: 0;
     padding: 30px;
   }
@@ -153,10 +146,6 @@ textarea:focus {
   .contact-2 {
     margin: 0;
     max-width: 300px;
-  }
-  iframe {
-    max-width: 300px;
-    margin-bottom: 80px;
   }
 }
 
